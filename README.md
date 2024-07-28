@@ -14,8 +14,8 @@ Este proyecto es una aplicación de API desarrollada en Node.js utilizando el fr
 Primero, clona el repositorio en tu máquina local:
 
 ```sh
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/newtyf/nodejs-api-zoluxions.git
+cd nodejs-api-zoluxions
 ```
 
 ### Instalación de Dependencias
